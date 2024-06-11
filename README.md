@@ -1,0 +1,1 @@
+Only education .exe
