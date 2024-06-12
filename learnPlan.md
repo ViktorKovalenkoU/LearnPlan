@@ -1,7 +1,7 @@
 # Java learning plan
 
 ## Git
-- [ ] Local repository operations
+- [x] Local repository operations
   - [ ] git init
   - [ ] git add
   - [ ] git commit
