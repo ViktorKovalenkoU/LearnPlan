@@ -52,6 +52,7 @@
     - [ ] Encapsulation
     - [ ] Polymorphism
     - [ ] Abstraction
+	- [ ] SOLID principles
   - [ ] "instanceof" operator
   - [ ] "final" keyword usages
   - [ ] "static" keyword usages
@@ -204,12 +205,13 @@
 ---
 ## Code design best practices
 - [ ] Code conventions
+- [ ] KISS, DRY, YAGNI principles
 - [ ] Clean code and refactoring practices
 - [ ] Design patterns
   - [ ] Factory
   - [ ] Abstract factory
   - [ ] Singleton
-  - [ ] Command
+  - [ ] Command 
 Visit [Refactoring Guru](https://refactoring.guru/)
 
 ---
