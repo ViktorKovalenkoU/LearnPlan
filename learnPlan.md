@@ -7,8 +7,10 @@
   - [ ] git add
   - [ ] git commit
   - [ ] git branch
+  - [ ] git checkout
   - [ ] git merge
   - [ ] git rebase
+  - [ ] .gitignore
 - [ ] Remote repository operations
   - [ ] SSH keys setup
   - [ ] Setting remote repository / pushing local repository to remote 
@@ -97,6 +99,11 @@
     - [ ] HashMap
     - [ ] LinkedHashMap
     - [ ] TreeMap
+- [ ] Java 8 features
+	- [ ] Stream API
+	- [ ] Functional Interfaces
+	- [ ] Lambda expressions
+	- [ ] Method references
 - [ ] "Internationalization" - i18n
   - [ ] .property files
   - [ ] ResourceBundle
